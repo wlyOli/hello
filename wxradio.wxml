@@ -1,0 +1,5 @@
+<view  catchtouchstart="streamRecord"  catchtouchend="endStreamRecord"> 语音识别按钮 </view>
+
+<view> 语音识别内容：{{currentText}} </view>
+
+<view> 翻译结果：{{translateText}} </view>
